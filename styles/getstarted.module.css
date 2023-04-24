@@ -1,0 +1,18 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  
+  }
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.reccommendationmessage{
+    text-align: center;
+    width: 330px;
+    font-weight: 550;
+}
