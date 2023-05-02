@@ -5,10 +5,6 @@ import NavItem from './NavItem';
 
 const MENU_LIST = [
   {
-    title: 'Home',
-    href: '/getstarted',
-  },
-  {
     title: 'Quizzes',
     href: '/Quizzes',
   },
